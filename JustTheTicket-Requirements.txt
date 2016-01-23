@@ -12,3 +12,19 @@ Type: FUNCTIONAL / NON FUNCTIONAL
 Rationale: EXAMPLE RATIONALE: why do we need this capability?
 Originator: EXAMPLE ORIGINATOR: Edna Everage
 Comments: [Jay Dear EXAMPLE] 
+
+
+REQ-ID: 001
+Description: The product shall identify the owner of a given purchased ticket
+Type: Functional
+Rationale: To allow the system to ensure that the ticket is valid, the customer returning the ticket actually owns it, and to locate contact/bank details for a refund
+Originator: Leslie Patterson
+Comments: [Philip Harle]
+
+
+REQ-ID: 002
+Description: The product shall update the ticket record to remove its allocation
+Type: Functional
+Rationale: To allow the system to make the returned ticket available for purchase again
+Originator: Edna Everage
+Comments: [Philip Harle]
