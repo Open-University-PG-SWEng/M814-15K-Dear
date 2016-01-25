@@ -28,3 +28,19 @@ Type: Functional
 Rationale: To allow the system to make the returned ticket available for purchase again
 Originator: Edna Everage
 Comments: [Philip Harle]
+
+
+REQ-ID: 003
+Description: The product shall update the ticket record to remove its allocation
+Type: Functional
+Rationale: To allow the system to make the returned ticket available for purchase again
+Originator: Edna Everage
+Comments: [George]
+
+
+REQ-ID: 004
+Description: The product shall update the ticket record to remove its allocation
+Type: Functional
+Rationale: To allow the system to make the returned ticket available for purchase again
+Originator: Edna Everage
+Comments: [George4]
