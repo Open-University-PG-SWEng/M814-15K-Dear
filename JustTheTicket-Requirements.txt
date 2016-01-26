@@ -31,7 +31,7 @@ Comments: [Philip Harle]
 
 
 REQ-ID: 003
-Description: The product shall allow only registered users to purchase e-tickes
+Description: The product shall allow only registered users to purchase e-ticket
 Type: Functional
 Rationale: Optimal user experience and restriction of bots!
 Originator: Kate Flown
