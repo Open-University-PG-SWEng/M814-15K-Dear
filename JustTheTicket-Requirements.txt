@@ -28,3 +28,18 @@ Type: Functional
 Rationale: To allow the system to make the returned ticket available for purchase again
 Originator: Edna Everage
 Comments: [Philip Harle]
+
+
+REQ-ID: 003
+Description: The product shall allow only registered users to purchase e-ticket
+Type: Functional
+Rationale: Optimal user experience and restriction of bots!
+Originator: Kate Flown
+Comments: George Moschovitis
+
+REQ-ID: 004
+Description: The product shall keep up to date the seat allocation diagram, showing up the exact number and position of (available/booked) seats 
+Type: Functional
+Rationale: Aiming accurate allocation of seats, elimination of frustrated/unhappy customers resulted the return of ticket  
+Originator: Paul Flowers
+Comments: George Moschovitis
