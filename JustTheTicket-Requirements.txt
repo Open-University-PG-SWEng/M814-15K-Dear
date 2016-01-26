@@ -44,3 +44,17 @@ Type: Functional
 Rationale: Aiming accurate allocation of seats, elimination of frustrated/unhappy customers resulted the return of ticket  
 Originator: Paul Flowers
 Comments: [George Moschovitis]
+
+REQ-ID: 005
+Description: The product shall record the reason for the ticket return.
+Type: Functional
+Rationale: Inform interested stakeholders regarding of the reason for a return to discover patterns in return behaviour.
+Originator: Leslie Patterson
+Comments: [Shane Edwards]
+
+REQ-ID: 006
+Description: The product shall trigger reallocation of tickets that have had their allocation removed every 24hrs.
+Type: Functional
+Rationale: Functionality that provides the timed interval that trigger reallocation.
+Originator: Edna Everage
+Comments: [Shane Edwards]
