@@ -78,12 +78,14 @@ Comments: [Graham Gibbon]
 
 REQ-ID: 009
 Description: The product shall record the reason for product returns
+Type: Functional
 Rationale: To identify the reasons for ticket returns and identify patterns in the return of tickets
 Originator: Edna Everage
 Comments: [Andrew Kane]
 
 REQ-ID: 010
 Description: The product shall identify tickets purchased by the customer
+Type: Functional
 Rationale: To allow the customer to select the tickets to be returned, while preventing the customer from interacting with tickets that do not belong to them
 Originator: Leslie Patterson
 Comments: [Andrew Kane]
