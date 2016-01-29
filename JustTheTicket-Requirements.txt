@@ -89,3 +89,24 @@ Type: Functional
 Rationale: To allow the customer to select the tickets to be returned, while preventing the customer from interacting with tickets that do not belong to them
 Originator: Leslie Patterson
 Comments: [Andrew Kane]
+
+REQ-ID: 011
+Description: The product must record the reason for returned tickets with client information
+Type: Functional
+Rationale: To record the reason of the returned ticket with sufficient information and have the ability to identify the patterns 
+Originator: Edna Everage
+Comments: [Gabriel Ajabahian]
+
+REQ-ID: 012
+Description: The product shall list all returned tickets for rellocation 
+Type: Functional
+Rationale: to allow returned tickets to be reallocated every time the rellocation program is triggered
+Originator: Edna Everage
+Comments: [Gabriel Ajabahian]
+
+REQ-ID: 013
+Description: The system should be able to process 30 tickets per second.
+Type: Non Functional
+Rationale: JustTheTicket must be able to handle tens of thousands of orders per hour, with the ability of staying responsive and usable for the visitors.
+Originator: Leslie Patterson
+Comments: [Gabriel Ajabahian]
