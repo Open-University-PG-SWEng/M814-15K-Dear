@@ -31,20 +31,19 @@ Comments: [Philip Harle]
 
 
 REQ-ID: 003
-Description: The product shall allow only registered users to purchase e-ticket
+Description: The product shall record purchased tickets by customers
 Type: Functional
-Rationale: Optimal user experience and restriction of bots!
-Originator: Kate Flown
+Rationale: Verification that the customer is actually the owner of the ticket
+Originator: Edna Everage
 Comments: [George Moschovitis]
 
 
 REQ-ID: 004
-Description: The product shall keep up to date the seat allocation diagram/map, showing up the exact number and position of (available/booked) seats 
+Description: The product shall assign a unique identifier number for every sold ticket
 Type: Functional
-Rationale: Aiming accurate allocation of seats, elimination of frustrated/unhappy customers resulted the return of ticket  
-Originator: Paul Flowers
+Rationale: The customer has to provide the UID in order to initiate the return process of it 
+Originator: Edna Everage
 Comments: [George Moschovitis]
-
 
 REQ_ID: 005
 
