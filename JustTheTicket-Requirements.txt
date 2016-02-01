@@ -119,13 +119,6 @@ Originator:Edna Everage
 Comments: [Pete Frost] 
 
 REQ-ID: 015
-Description: The system should record the reason why each ticket was returned.
-Type: Functional
-Rationale: The organisers need to be able to understand the underlying reasons for ticket returns so that they can identify attempted fraud.
-Originator:Edna Everage
-Comments: [Pete Frost] 
-
-REQ-ID: 016
 Description: The system should differentiate returned tickets from available tickets.
 Type: Functional
 Rationale: The organisers wish to closely control the re-allocation of tickets; they do not want returned tickets to be immediately available to customers.
