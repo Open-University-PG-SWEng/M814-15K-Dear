@@ -109,11 +109,8 @@ Type: Non Functional
 Rationale: JustTheTicket must be able to handle tens of thousands of orders per hour, with the ability of staying responsive and usable for the visitors.
 Originator: Leslie Patterson
 Comments: [Gabriel Ajabahian]
-<<<<<<< HEAD
 
-REQ-ID: 014
-test
-=======
+
 
 REQ-ID: 014
 Description: The system should record the reason why each ticket was returned.
