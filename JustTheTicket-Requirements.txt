@@ -126,3 +126,19 @@ Rationale: The organisers wish to closely control the re-allocation of tickets; 
 Originator:Edna Everage
 Comments: [Pete Frost] 
 >>>>>>> origin/master
+
+
+REQ-ID: 016
+Description: The product shall allow one or more tickets to be returned
+Type: Functional
+Rationale: To enable customer to return ticket(s) they no longer need
+Originator: Leslie Patterson
+Comments: [Lauren key]
+
+
+REQ-ID: 017
+Description: The product shall send refund data to customer's bank for processing
+Type: Functional
+Rationale: To allow the customer to be refunded
+Originator: Leslie Patterson
+Comments: [Lauren key]
