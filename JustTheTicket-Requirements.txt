@@ -142,3 +142,18 @@ Type: Functional
 Rationale: To allow the customer to be refunded
 Originator: Leslie Patterson
 Comments: [Lauren key]
+
+REQ-ID: 018
+Description: The product must record the reason each ticket is returned
+Type: Functional
+Rationale: To identify patterns in returns, including fraud 
+Originator: Edna Everage
+Comments: [David Howes]
+
+REQ-ID: 019
+Description: The product must refund the customer’s money
+Type: Functional
+Rationale: To enable the purchase price of one more or tickets to be refunded when they are returned
+Originator: Leslie Patterson
+Comments: [David Howes]
+
