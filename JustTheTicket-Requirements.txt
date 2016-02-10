@@ -183,3 +183,17 @@ Type: Functional
 Rationale: To detect any patterns that might be emerging to help protect the Games from fraud.
 Originator: Edna Everage
 Comments: [Jiri Sedlacek]
+
+REQ-ID: 024
+Description: The product shall record the customer-type ticket pool that the returned ticket was originally sold from.
+Type: Functional
+Rationale: To ensure fair reallocation of the returned ticket.
+Originator: Leslie Patterson
+Comments: [Ben Kreft]
+
+REQ-ID: 025
+Description: The product shall facilitate a user's reasons for returning their ticket.
+Type: Functional
+Rationale: To contribute to pattern detection by ensuring a user has the flexibility to express their reasons.
+Originator: Leslie Patterson
+Comments: [Ben Kreft]
