@@ -197,3 +197,17 @@ Type: Functional
 Rationale: To contribute to pattern detection by ensuring a user has the flexibility to express their reasons.
 Originator: Leslie Patterson
 Comments: [Ben Kreft]
+
+REQ-ID: 026
+Description: The product shall accommodate ticket sales for multiple sport events.
+Type: Functional
+Rationale: JustTheTicket must be capable of operating for XX Commonwealth Games and also other events such as para events.
+Originator: Leslie Patterson
+Comments: [Rogelio Vazquez]
+
+REQ-ID: 027
+Description: The product shall have an algorithm for fair distribution of tickets.
+Type: Functional
+Rationale: Transparency of ticket sales avoiding any impression that the well-to-do have received favourable treatment.
+Originator: Leslie Patterson
+Comments: [Rogelio Vazquez]
