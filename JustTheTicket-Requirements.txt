@@ -1,4 +1,4 @@
-REQ-ID:
+﻿REQ-ID:
 Description:
 Type:
 Rationale:
@@ -169,3 +169,17 @@ Type: Functional
 Rationale: To have it separated in case like event being full, and redistribution of return tickets, also to notify organisers of change of real tickets reserved and returned
 Originator: Edna Everage
 Comments: [Matjaz Trcek]
+
+REQ-ID: 022
+Description: The product shall show the list of reasons why were tickets returned.
+Type: Functional
+Rationale: To understand the reasons for returns.
+Originator: Edna Everage
+Comments: [Jiri Sedlacek]
+
+REQ-ID: 023
+Description: The product shall show groups of returns grouped by parameters (place of return/date and time of return/number of returned tickets by customer/number of returned tickets by place/reason).
+Type: Functional
+Rationale: To detect any patterns that might be emerging to help protect the Games from fraud.
+Originator: Edna Everage
+Comments: [Jiri Sedlacek]
