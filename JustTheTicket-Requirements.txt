@@ -225,3 +225,22 @@ Type: Functional
 Rationale: To let the user have future references to the returned ticket transaction, avoid misunderstandings and be seen to be fair.
 Originator: Leslie Patterson
 Comments: [Jose A. Ruiz Arroyo]
+
+REQ-ID: 030
+Description: The product shall create a report of returned tickets along with reasons for returning.
+Type: Functional
+Rationale: Leslie and Edna plan to meet daily to review the situation.
+Originator: Edna Everage
+Comments: [Remigiusz Duszynski]
+
+REQ-ID: 031
+Description: The product shall allow defining/adjusting of policy of reallocating tickets.
+Type: Functional
+Rationale: It is unknown at the moment how to manage such cases like "what should we do when two tickets are returned but the head of the queue wants three or more?"
+Originator: Edna Everage
+Comments: [Remigiusz Duszynski]
+
+
+
+
+
