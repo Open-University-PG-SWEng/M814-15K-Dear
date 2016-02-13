@@ -241,6 +241,19 @@ Originator: Edna Everage
 Comments: [Remigiusz Duszynski]
 
 
+REQ-ID: 098
+Description: The product shall verify that Ticket Returns are still open before processing return
+Type: Functional
+Rationale: To ensure tickets can only be returned if further reallocation is due to take place for that event (i.e. unused tickets for events already occurred cannot be refunded)
+Originator: Leslie Patterson
+Comments: [Baptiste Guittet-Carriere]
 
+ 
+REQ-ID: 099
+Description: The product shall release the returned ticket(s) into the reallocation inventory once the return is complete
+Type: Functional
+Rationale: To enable returned tickets to be available for the reallocation process run daily
+Originator: Edna Everage
+Comments: [Baptiste Guittet-Carriere]
 
 
