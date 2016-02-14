@@ -110,8 +110,6 @@ Rationale: JustTheTicket must be able to handle tens of thousands of orders per 
 Originator: Leslie Patterson
 Comments: [Gabriel Ajabahian]
 
-
-
 REQ-ID: 014
 Description: The system should record the reason why each ticket was returned.
 Type: Functional
@@ -126,14 +124,12 @@ Rationale: The organisers wish to closely control the re-allocation of tickets; 
 Originator:Edna Everage
 Comments: [Pete Frost]
 
-
 REQ-ID: 016
 Description: The product shall allow one or more tickets to be returned
 Type: Functional
 Rationale: To enable customer to return ticket(s) they no longer need
 Originator: Leslie Patterson
 Comments: [Lauren key]
-
 
 REQ-ID: 017
 Description: The product shall send refund data to customer's bank for processing
@@ -150,7 +146,7 @@ Originator: Edna Everage
 Comments: [David Howes]
 
 REQ-ID: 019
-Description: The product must refund the customer�s money
+Description: The product must refund the customer's money
 Type: Functional
 Rationale: To enable the purchase price of one more or tickets to be refunded when they are returned
 Originator: Leslie Patterson
@@ -240,7 +236,6 @@ Rationale: It is unknown at the moment how to manage such cases like "what shoul
 Originator: Edna Everage
 Comments: [Remigiusz Duszynski]
 
-
 REQ-ID: 098
 Description: The product shall verify that Ticket Returns are still open before processing return
 Type: Functional
@@ -248,7 +243,6 @@ Rationale: To ensure tickets can only be returned if further reallocation is due
 Originator: Leslie Patterson
 Comments: [Baptiste Guittet-Carriere]
 
- 
 REQ-ID: 099
 Description: The product shall release the returned ticket(s) into the reallocation inventory once the return is complete
 Type: Functional
