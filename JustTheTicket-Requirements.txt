@@ -179,4 +179,11 @@ Rationale: To ensure tickets can only be returned if further reallocation is due
 Originator: Leslie Patterson
 Comments: [Baptiste Guittet-Carriere]
 
+REQ-ID: 099
+Description: The product shall release the returned ticket(s) into the reallocation inventory once the return is complete
+Type: Functional
+Rationale: To enable returned tickets to be available for the reallocation process run daily
+Originator: Edna Everage
+Comments: [Baptiste Guittet-Carriere]
+
 
