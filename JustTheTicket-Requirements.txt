@@ -37,13 +37,6 @@ Rationale: The customer has to provide the UID in order to initiate the return p
 Originator: Edna Everage
 Comments: [George Moschovitis]
 
-REQ_ID: 005
-
-Description: The product shall record the reason for the ticket return.
-Type: Functional
-Rationale: Inform interested stakeholders regarding of the reason for a return to discover patterns in return behaviour.
-Originator: Leslie Patterson
-Comments: [Shane Edwards]
 
 REQ-ID: 006
 Description: The product shall trigger reallocation of tickets that have had their allocation removed every 24hrs.
@@ -53,13 +46,6 @@ Originator: Edna Everage
 Comments: [Shane Edwards]
 
 
-REQ-ID: 007
-Description: Ascertain the reason or reasons for the return of the ticket(s).
-Type: Functional
-Rationale: The users of the system need to analyse the reasons for the returns, and check for patterns.
-Originator: Edna Everage
-Comments: [Graham Gibbon]
-
 REQ-ID: 008
 Description: Allow the ticket(s) to be processed by the ticket reallocation programme.
 Type: Functional
@@ -67,19 +53,6 @@ Rationale: The users require that a reallocate process be run once every 24 hour
 Originator: Edna Everage
 Comments: [Graham Gibbon]
 
-REQ-ID: 009
-Description: The product shall record the reason for product returns
-Type: Functional
-Rationale: To identify the reasons for ticket returns and identify patterns in the return of tickets
-Originator: Edna Everage
-Comments: [Andrew Kane]
-
-REQ-ID: 011
-Description: The product must record the reason for returned tickets with client information
-Type: Functional
-Rationale: To record the reason of the returned ticket with sufficient information and have the ability to identify the patterns
-Originator: Edna Everage
-Comments: [Gabriel Ajabahian]
 
 REQ-ID: 012
 Description: The product shall list all returned tickets for rellocation
@@ -94,7 +67,6 @@ Type: Non Functional
 Rationale: JustTheTicket must be able to handle tens of thousands of orders per hour, with the ability of staying responsive and usable for the visitors.
 Originator: Leslie Patterson
 Comments: [Gabriel Ajabahian]
-
 
 
 REQ-ID: 014
@@ -127,12 +99,6 @@ Rationale: To allow the customer to be refunded
 Originator: Leslie Patterson
 Comments: [Lauren key]
 
-REQ-ID: 018
-Description: The product must record the reason each ticket is returned
-Type: Functional
-Rationale: To identify patterns in returns, including fraud
-Originator: Edna Everage
-Comments: [David Howes]
 
 REQ-ID: 019
 Description: The product must refund the customer�s money
@@ -176,12 +142,6 @@ Rationale: To ensure fair reallocation of the returned ticket.
 Originator: Leslie Patterson
 Comments: [Ben Kreft]
 
-REQ-ID: 025
-Description: The product shall facilitate a user's reasons for returning their ticket.
-Type: Functional
-Rationale: To contribute to pattern detection by ensuring a user has the flexibility to express their reasons.
-Originator: Leslie Patterson
-Comments: [Ben Kreft]
 
 REQ-ID: 026
 Description: The product shall accommodate ticket sales for multiple sport events.
@@ -211,12 +171,6 @@ Rationale: To let the user have future references to the returned ticket transac
 Originator: Leslie Patterson
 Comments: [Jose A. Ruiz Arroyo]
 
-REQ-ID: 030
-Description: The product shall create a report of returned tickets along with reasons for returning.
-Type: Functional
-Rationale: Leslie and Edna plan to meet daily to review the situation.
-Originator: Edna Everage
-Comments: [Remigiusz Duszynski]
 
 REQ-ID: 031
 Description: The product shall allow defining/adjusting of policy of reallocating tickets.
