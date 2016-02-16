@@ -22,24 +22,6 @@ Originator: Leslie Patterson
 Comments: [Philip Harle]
 
 
-
-
-REQ-ID: 004
-Description: The product shall assign a unique identifier number for every sold ticket
-Type: Functional
-Rationale: The customer has to provide the UID in order to initiate the return process of it
-Originator: Edna Everage
-Comments: [George Moschovitis]
-
-
-REQ-ID: 013
-Description: The system should be able to process 30 tickets per second.
-Type: Non Functional
-Rationale: JustTheTicket must be able to handle tens of thousands of orders per hour, with the ability of staying responsive and usable for the visitors.
-Originator: Leslie Patterson
-Comments: [Gabriel Ajabahian]
-
-
 REQ-ID: 014
 Description: The system should record the reason why each ticket was returned.
 Type: Functional
@@ -57,22 +39,6 @@ Originator: Leslie Patterson
 Comments: [Lauren key]
 
 
-REQ-ID: 017
-Description: The product shall send refund data to customer's bank for processing
-Type: Functional
-Rationale: To allow the customer to be refunded
-Originator: Leslie Patterson
-Comments: [Lauren key]
-
-
-REQ-ID: 019
-Description: The product must refund the customer�s money
-Type: Functional
-Rationale: To enable the purchase price of one more or tickets to be refunded when they are returned
-Originator: Leslie Patterson
-Comments: [David Howes]
-
-
 REQ-ID: 021
 Description: Returned tickets go into reallocation pool and are different to normal tickets
 Type: Functional
@@ -80,29 +46,6 @@ Rationale: To have it separated in case like event being full, and redistributio
 Originator: Edna Everage
 Comments: [Matjaz Trcek]
 
-
-
-REQ-ID: 024
-Description: The product shall record the customer-type ticket pool that the returned ticket was originally sold from.
-Type: Functional
-Rationale: To ensure fair reallocation of the returned ticket.
-Originator: Leslie Patterson
-Comments: [Ben Kreft]
-
-
-REQ-ID: 026
-Description: The product shall accommodate ticket sales for multiple sport events.
-Type: Functional
-Rationale: JustTheTicket must be capable of operating for XX Commonwealth Games and also other events such as para events.
-Originator: Leslie Patterson
-Comments: [Rogelio Vazquez]
-
-REQ-ID: 027
-Description: The product shall have an algorithm for fair distribution of tickets.
-Type: Functional
-Rationale: Transparency of ticket sales avoiding any impression that the well-to-do have received favourable treatment.
-Originator: Leslie Patterson
-Comments: [Rogelio Vazquez]
 
 REQ-ID: 028
 Description: The customer shall be informed when the refund transaction request has been acknowledged.
