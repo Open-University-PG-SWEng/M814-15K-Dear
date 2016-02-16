@@ -240,6 +240,19 @@ Rationale: It is unknown at the moment how to manage such cases like "what shoul
 Originator: Edna Everage
 Comments: [Remigiusz Duszynski]
 
+REQ-ID: 032
+Description: the product shall flag the UID of the previously issued ticket as invalid upon processing a return.
+Type: Functional
+Rationale: The customer should not be able to use a cancelled and refunded ticket to gain entry to an event.
+Originator: Leslie Patterson
+Comments: [Richard Burge]
+	
+REQ-ID: 033
+Description: Where an event is fully booked, the system shall allocate each ticket released from the pool of returns to the customer at top of the waiting list.
+Type: Functional
+Rationale: The system should be seen to be fair.
+Originator: Edna Everage
+Comments: [Richard Burge]
 
 REQ-ID: 098
 Description: The product shall verify that Ticket Returns are still open before processing return
