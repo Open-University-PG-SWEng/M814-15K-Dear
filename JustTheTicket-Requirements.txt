@@ -105,19 +105,11 @@ Originator: Leslie Patterson
 Comments: [Rogelio Vazquez]
 
 REQ-ID: 028
-Description: After the refund transaction request has been acknowledge, a Returned Ticket Confirmation Message shall be displayed in the Customer's screen.
+Description: The customer shall be informed when the refund transaction request has been acknowledged.
 Type: Functional
 Rationale: To indicate the customer that the transaction has been processed, avoid misunderstandings and be seen to be fair.
 Originator: Leslie Patterson
 Comments: [Jose A. Ruiz Arroyo]
-
-REQ-ID: 029
-Description: After the refund transaction request has been acknowledge, a Returned Ticket Confirmation e-mail shall be sent to the Customer's e-mail address.
-Type: Functional
-Rationale: To let the user have future references to the returned ticket transaction, avoid misunderstandings and be seen to be fair.
-Originator: Leslie Patterson
-Comments: [Jose A. Ruiz Arroyo]
-
 
 
 
