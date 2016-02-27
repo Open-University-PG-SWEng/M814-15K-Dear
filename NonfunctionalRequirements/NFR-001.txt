@@ -1,0 +1,7 @@
+REQ-ID: NFR-001
+Description: The product shall easily allow customers to supply a reason for returning their ticket(s)
+Type: Usability and Humanity
+Rationale: To ensure that return reasons are obtained and accurate, the process the customer must follow needs to be easy
+Fit Criterion: Ninety percent of customers shall successfully supply a return reason within 5 seconds without assistance, and the remaining ten percent within 15 seconds
+Originator: Edna Everage
+Comments: [Philip Harle] NFR-001 non-functional requirement (usability) is associated with functional requirement REQ-ID 014
