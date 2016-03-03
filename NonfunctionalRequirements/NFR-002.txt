@@ -1,9 +1,0 @@
-REQ-ID:NFR-002
-Description: The product shall not request information from a customer which it already holds.
-Type: Understandability and Politness
-Rationale: To avoid forcing customers to learn terms that are not relevent to the customers world, or interfering with the task the customer is trying to complete
-Fit Criterion: A representitive of the XXI Commonwealth games committtee shall certify that the product does not request information during a return that was already collected during pervious interactions with the product  
-Originator: Leslie Patterson
-Comments: [AK] NFR-002 associated with function requirement 016
-
-
