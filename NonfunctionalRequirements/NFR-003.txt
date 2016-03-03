@@ -1,0 +1,8 @@
+REQ-ID:NFR-003
+Description: The product shall not request information from a customer which it already holds.
+Type: Understandability and Politness
+Rationale: To avoid forcing customers to learn terms that are not relevent to the customers world, or interfering with the task the customer is trying to complete
+Fit Criterion: A customer shall be able, once logged in to the product, to return any ticket(s) for any event which has not taken place, without entering any information that has previously been collected from the customer during previous use of the product
+Originator: Leslie Patterson
+Comments: [AK] NFR-002 associated with functional requirement 016
+
