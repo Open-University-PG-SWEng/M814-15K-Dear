@@ -4,5 +4,4 @@ Type: Security
 Rationale: To prevent legal action being taken against the company for releasing customers private information to unauthorised people.
 Fit Criterion: The legal sector shall safeguard the product against data breaches, so that it conforms to The Australian National Privacy Act 1988.
 Originator: Leslie Patterson
-Comments: [Lauren Key] NFR-002 relates to Functional Requirement REQ-ID 017 and 019. 
-
+Comments: [Lauren Key] NFR-006 relates to Functional Requirement REQ-ID 017 and 019. 
