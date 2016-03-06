@@ -1,0 +1,8 @@
+REQ-ID: NFR-006
+Description: The product shall comply with Australian Data Protection and Privacy laws when disclosing customer information to the bank processing system.
+Type: Security
+Rationale: To prevent legal action being taken against the company for releasing customers private information to unauthorised people.
+Fit Criterion: The legal sector shall safeguard the product against data breaches, so that it conforms to The Australian National Privacy Act 1988.
+Originator: Leslie Patterson
+Comments: [Lauren Key] NFR-002 relates to Functional Requirement REQ-ID 017 and 019. 
+
