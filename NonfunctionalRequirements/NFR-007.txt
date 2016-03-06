@@ -1,0 +1,8 @@
+REQ-ID: NFR-007
+Description: The product shall effectively communicate patterns/trends in returned tickets.
+Type: Non-functional
+Rationale: To assist stakeholders in identifying ticket fraud (Business Event).
+Fit Criterion: Using simulation data, stakeholders will be able to identify 8/10 pre-conceived suspicious patterns in return behaviour from running 20 simulations.
+Originator: Leslie Patterson
+Comments:
+[Shane Edwards] Usability and humanity related property of requirement 022
