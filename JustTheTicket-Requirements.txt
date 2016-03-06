@@ -1,62 +1,124 @@
-﻿REQ-ID:
-Description:
-Type:
-Rationale:
-Originator:
-Comments: [M814-ModuleChair] Copy this template below to add new requirements.
-
 REQ-ID: 001
-Description: The system shall allow one or more tickets to be returned
+Description: The product shall identify the owner of a given purchased ticket
 Type: Functional
-Rationale: To enable customer to return ticket(s) they no longer need
+Rationale: To allow the system to ensure that the ticket is valid, the customer returning the ticket actually owns it, and to locate contact/bank details for a refund
 Originator: Leslie Patterson
-Comments: [Lauren key - Former REQ-ID 016]
+Comments: [Philip Harle]
 
-REQ-ID: 002
-Description: The system shall identify tickets purchased by the customer
+
+
+REQ-ID: 009
+Description: The product shall record the reason for product returns
 Type: Functional
-Rationale: To allow the customer to select the tickets to be returned, while preventing the customer from interacting with tickets that do not belong to them
-Originator: Leslie Patterson
-Comments: [Andrew Kane - Former REQ-IDs: 001, 003, 004, 010]
+Rationale: To identify the reasons for ticket returns and identify patterns in the return of tickets
+Originator: Edna Everage
+Comments: [Andrew Kane]
 
-REQ-ID: 003
-Description: The system shall verify that Ticket Returns are still open before processing return
+
+
+REQ-ID: 012
+Description: The product shall list all returned tickets for rellocation
 Type: Functional
-Rationale: To ensure tickets can only be returned if further reallocation is due to take place for that event (i.e. unused tickets for events already occurred cannot be refunded)
-Originator: Leslie Patterson
-Comments: [Baptiste Guittet-Carriere - Former REQ-ID: 098]
+Rationale: to allow returned tickets to be reallocated every time the rellocation program is triggered
+Originator: Edna Everage
+Comments: [Gabriel Ajabahian]
 
-REQ_ID: 004
-Description: The system shall record the reason for the ticket return.
+
+
+REQ-ID: 014
+Description: The system should record the reason why each ticket was returned.
 Type: Functional
-Rationale: Inform interested stakeholders regarding of the reason for a return to discover patterns in return behaviour.
-Originator: Leslie Patterson
-Comments: [Shane Edwards - Former REQ-IDs: 005, 007, 009, 011, 014, 018]
+Rationale: The organisers need to be able to understand the underlying reasons for ticket returns so that they can identify attempted fraud.
+Originator:Edna Everage
+Comments: [Pete Frost]
 
-REQ-ID: 005
-Description: The system shall differentiate returned tickets from available tickets.
+
+
+REQ-ID: 015
+Description: The system should differentiate returned tickets from available tickets.
 Type: Functional
 Rationale: The organisers wish to closely control the re-allocation of tickets; they do not want returned tickets to be immediately available to customers.
 Originator:Edna Everage
-Comments: [Pete Frost - Former REQ-IDs: 015, 021]
+Comments: [Pete Frost]
 
-REQ-ID: 006
-Description: The system shall make it possible the refund the customer's money
+
+
+REQ-ID: 016
+Description: The product shall allow one or more tickets to be returned
 Type: Functional
-Rationale: To enable the purchase price of one more or tickets to be refunded when they are returned
+Rationale: To enable customer to return ticket(s) they no longer need
 Originator: Leslie Patterson
-Comments: [David Howes - Former REQ-IDs: 017, 019]
+Comments: [Lauren key]
 
-REQ-ID: 007
-Description: The system shall notify the customer about the success of the ticket return operation.
+
+
+REQ-ID: 017
+Description: The product shall send refund data to customer's bank for processing
+Type: Functional
+Rationale: To allow the customer to be refunded
+Originator: Leslie Patterson
+Comments: [Lauren key]
+
+
+
+REQ-ID: 024
+Description: The product shall record the customer-type ticket pool that the returned ticket was originally sold from.
+Type: Functional
+Rationale: To ensure fair reallocation of the returned ticket.
+Originator: Leslie Patterson
+Comments: [Ben Kreft]
+
+
+
+REQ-ID: 028
+Description: After the refund transaction request has been acknowledge, a Returned Ticket Confirmation Message shall be displayed in the Customer's screen.
 Type: Functional
 Rationale: To indicate the customer that the transaction has been processed, avoid misunderstandings and be seen to be fair.
 Originator: Leslie Patterson
-Comments: [Jose A. Ruiz Arroyo - Merge of former REQ-IDs: 028, 029]
+Comments: [Jose A. Ruiz Arroyo]
 
-REQ-ID: 008
-Description: The system shall release the returned ticket(s) into the reallocation inventory once the return is complete
+
+
+REQ-ID: 030
+Description: The product shall create a report of returned tickets along with reasons for returning.
+Type: Functional
+Rationale: Leslie and Edna plan to meet daily to review the situation.
+Originator: Edna Everage
+Comments: [Remigiusz Duszynski]
+
+
+
+REQ-ID: 031
+Description: The product shall allow defining/adjusting of policy of reallocating tickets.
+Type: Functional
+Rationale: It is unknown at the moment how to manage such cases like "what should we do when two tickets are returned but the head of the queue wants three or more?"
+Originator: Edna Everage
+Comments: [Remigiusz Duszynski]
+
+REQ-ID: 032
+Description: the product shall flag the UID of the previously issued ticket as invalid upon processing a return.
+Type: Functional
+Rationale: The customer should not be able to use a cancelled and refunded ticket to gain entry to an event.
+Originator: Leslie Patterson
+Comments: [Richard Burge]
+	
+REQ-ID: 033
+Description: Where an event is fully booked, the system shall allocate each ticket released from the pool of returns to the customer at top of the waiting list.
+Type: Functional
+Rationale: The system should be seen to be fair.
+Originator: Edna Everage
+Comments: [Richard Burge]
+
+REQ-ID: 098
+Description: The product shall verify that Ticket Returns are still open before processing return
+Type: Functional
+Rationale: To ensure tickets can only be returned if further reallocation is due to take place for that event (i.e. unused tickets for events already occurred cannot be refunded)
+Originator: Leslie Patterson
+Comments: [Baptiste Guittet-Carriere]
+
+REQ-ID: 099
+Description: The product shall release the returned ticket(s) into the reallocation inventory once the return is complete
 Type: Functional
 Rationale: To enable returned tickets to be available for the reallocation process run daily
 Originator: Edna Everage
-Comments: [Baptiste Guittet-Carriere - Former REQ-ID: 002, 099]
+Comments: [Baptiste Guittet-Carriere]
