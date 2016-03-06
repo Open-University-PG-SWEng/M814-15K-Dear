@@ -1,0 +1,9 @@
+REQ-ID: NFR-005
+Description: The system shall ensure that tickets in the reallocation inventory are allocated to customers
+Type: Security - Integrity
+Rationale: To prevent the reallocation program to allocate one single ticket to two different customers.
+Fit Criterion: At any time, the ticket allocation inventory and the ticket reallocation inventory will have zero tickets in common.
+Originator: Edna Everage
+Comments: [JRA] Req NFR-005 relates to functional requirement REQ-ID: 099.
+
+
