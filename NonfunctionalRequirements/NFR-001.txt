@@ -5,4 +5,4 @@ Rationale: To ensure that return reasons are obtained and accurate, the process 
 Fit Criterion: Ninety percent of customers shall successfully supply a return reason within 5 seconds without assistance, and the remaining ten percent within 15 seconds
 Originator: Edna Everage
 Comments: [Philip Harle] NFR-001 non-functional requirement (usability) is associated with functional requirement REQ-ID 014
-comments: Adding review response-I think this is a valid description.  My recommendations: Slightly lowering the percentage to say 80-85% would cater for people such as the older genteration and/or people with learning needs/disabilities who may struggle to use computers at a fast speed of 5-15 seconds without assisstence.  I feel your rational is good.
+comments: [Lauren Key] Adding review response-I think this is a valid description.  My recommendations: Slightly lowering the percentage to say 80-85% would cater for people such as the older genteration and/or people with learning needs/disabilities who may struggle to use computers at a fast speed of 5-15 seconds without assisstence.  I feel your rational is good.
