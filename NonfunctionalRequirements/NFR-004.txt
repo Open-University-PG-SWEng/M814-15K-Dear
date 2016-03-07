@@ -1,8 +1,8 @@
 REQ-ID: NFR-004
-Description: The product shall ensure all ticket(s) available for re-allocation are re-allocated.
+Description: The product shall ensure all ticket(s) available for re-allocation are re-allocated to customers on the waiting list.
 Type: Performance
 Rationale: There could be empty seats if tickets are not re-allocated after they have been returned.
-Fit Criterion: 100% of the returned tickets must be re-allocated when the re-allocation process is run.
+Fit Criterion: 100% of the returned tickets must be re-allocated to customers on the waiting list when the re-allocation process is run.
 Originator: Edna Everage.
 Comments: [GG] Req NFR-004 relates to functional requirement REQ-ID: 006.
 
