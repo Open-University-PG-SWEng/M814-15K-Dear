@@ -1,0 +1,7 @@
+REQ-ID: NFR-008
+Description: The product shall allow the customer to securely submit their login credentials to verify their identity.
+Type: Security
+Rationale: To ensure customer credentials are processed securely and to be identified by the system to access their purchase records.
+Fit Criterion: 100% of customer login submissions must be made through a secure portal.
+Originator: Leslie Patterson
+Comments: [Ben Kreft] NFR-008 relates to functional requirement REQ001
