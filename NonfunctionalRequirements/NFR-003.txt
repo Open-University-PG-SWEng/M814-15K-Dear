@@ -5,4 +5,4 @@ Rationale: To avoid forcing customers to learn terms that are not relevant to th
 Fit Criterion: A customer shall be able, once logged in to the product, to return any ticket(s) for any event which has not taken place, without entering any information that has previously been collected from the customer during previous use of the product
 Originator: Leslie Patterson
 Comments: [AK] NFR-002 associated with functional requirement 016
-
+[Philip Harle] You could mention minimising frustration, and speeding up data entry in the rationale. I think the fit criterion could add some specific quantitive measures; “99% of customers shall be able…”, the 1% accounts for potential issues with data quality, or losing access to stored data.

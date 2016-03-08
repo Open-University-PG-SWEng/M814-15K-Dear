@@ -5,5 +5,6 @@ Rationale: There could be empty seats if tickets are not re-allocated after they
 Fit Criterion: 100% of the returned tickets must be re-allocated to customers on the waiting list when the re-allocation process is run.
 Originator: Edna Everage.
 Comments: [GG] Req NFR-004 relates to functional requirement REQ-ID: 006.
+[Philip Harle] The rationale is good, however free seats could be sold through the website not just the waiting list, so maybe change it to “resold” instead of “reallocated”. I’d suggest decreasing the fit criterion to around 95% to take account of instances where 1 ticket is returned but the customer waiting requires 2 or more.
 
 
