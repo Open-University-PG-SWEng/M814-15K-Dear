@@ -5,3 +5,4 @@ Rationale: To ensure customer credentials are processed securely and to be ident
 Fit Criterion: 100% of customer login submissions must be made through a secure portal.
 Originator: Leslie Patterson
 Comments: [Ben Kreft] NFR-008 relates to functional requirement REQ001
+Comments: [Graham Gibbon] Linking the fit criterion to an external definition of a secure web would ensure it is explicit - for example NIST Special Publication 800-95 (http://csrc.nist.gov/publications/nistpubs/800-95/SP800-95.pdf) or something more appropriate.
