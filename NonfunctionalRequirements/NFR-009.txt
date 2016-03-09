@@ -5,4 +5,4 @@ Type: Security
 Rationale: To prevent edge cases and to prevent duplicately assigned tickets and at the same time for all stakeholders such as event owners to be able to see status of all tickets
 Fit Criterion: At all times each of the tickets will be only in one table (or containing only one parameter)  and there will be no duplicates at the same time the volume of all ticket states must be equal to total amount of tickets
 Originator: Edna Everage
-Comments: [Matjaz Trcek] NFR-008 relates to functional requirement REQ021
+Comments: 
