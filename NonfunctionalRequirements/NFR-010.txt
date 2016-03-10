@@ -5,4 +5,5 @@ Rationale:Users are likely to become annoyed and less likely to use the system i
 Fit Criterion:At least 90% of user who do not choose to enter a text based description of their reasons for return should have completed the reason selection in under 30 seconds.
 Originator:Leslie Patterson
 Comments: [David_Howes] NFR-010 relates to Functional Requirement REQ-ID 018.
-[Matjaz Trcek] I do not see it as the most proper Usability case. Since it is about make it efficient for users, maybe a better way would be to have return field reason with a default value in case they don't choose another one.
+Comments: [Matjaz Trcek] I do not see it as the most proper Usability case. Since it is about make it efficient for users, maybe a better way would be to have return field reason with a default value in case they don't choose another one.
+Comments: [Remigiusz Duszynski] Is it reasonable to do it as easy and fast? Reasons for return are very important data. I think, to let users to take a whole minute to pecise the reason for returning is not too much expected.
