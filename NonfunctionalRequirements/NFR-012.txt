@@ -5,4 +5,4 @@ Rationale: Reallocation system decides who get the freed ticket, so employees co
 Fit Criterion: 100% of changes in the policy shall be detailed logged (who and when has changed the reallocation policy and what in detail was changed) in an inaccessible for employees depot.
 Originator: Edna Everage
 Comments: [Remigiusz Duszynski] NFR-012 relates to Functional Requirement REQ-ID 031
-
+[Matjaz Trcek] Good thinking, useful reviewing logs in case of a security breach. Could prevention of unauthorized personel or review process be more efficient? The problem I see with the NFR is that it could be possibly detected at a very late stage if not watched on

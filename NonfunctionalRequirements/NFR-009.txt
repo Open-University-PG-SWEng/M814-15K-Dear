@@ -1,8 +1,8 @@
 REQ-ID: NFR-009
-Description: System needs to separate different types of tickets so the stakeholders connected to tickets know the states of them and that they can't be lost
+Description: System needs to separate different types of tickets and detailed history of their flow
 Type: Security
-Rationale: To prevent edge cases and to prevent duplicately assigned tickets and at the same time for all stakeholders such as event owners to be able to see status of all tickets
-Fit Criterion: At all times each of the tickets will be distinguishable between other tickets and there shouldn't be same duplicated tickets
+Rationale: For all stakeholders such as event owners to be able to see status of their tickets and the flow/history of them if needed in case of frauds and thefts
+Fit Criterion: At all times each of the tickets will be distinguishable between other tickets and it's history should be stored.
 Originator: Edna Everage
-Comments: [MT] Req NFR-009 relates to functional requirement REQ-ID: 021.
+Comments: [Matjaz Trcek] Req NFR-009 relates to functional requirement REQ-ID: 021.
 [Jiri Sedlacek] It looks more like solution than requirement and it is quite ambiguous.
