@@ -4,6 +4,6 @@ Type:Usability
 Rationale:Users are likely to become annoyed and less likely to use the system in future if they feel they are encountering unnecessary barriers
 Fit Criterion:At least 90% of user who do not choose to enter a text based description of their reasons for return should have completed the reason selection in under 30 seconds.
 Originator:Leslie Patterson
-[David_Howes] NFR-010 relates to Functional Requirement REQ-ID 018. 
+Comments: [David_Howes] NFR-010 relates to Functional Requirement REQ-ID 018. 
 
 
