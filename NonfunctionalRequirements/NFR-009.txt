@@ -5,4 +5,5 @@ Rationale: For all stakeholders such as event owners to be able to see status of
 Fit Criterion: At all times each of the tickets will be distinguishable between other tickets and it's history should be stored.
 Originator: Edna Everage
 Comments: [Matjaz Trcek] Req NFR-009 relates to functional requirement REQ-ID: 021.
-[Jiri Sedlacek] It looks more like solution than requirement and it is quite ambiguous.
+Comments: [Jiri Sedlacek] It looks more like solution than requirement and it is quite ambiguous.
+Comments: [Remigiusz Duszynski] I don't thik that the stakeholders are allowed to see all the data. At least in some countries it could trespass laws of protecting personal data.
