@@ -1,9 +1,10 @@
 REQ-ID: NFR-009
 Description: System needs to separate different types of tickets and detailed history of their flow
 Type: Security
-Rationale: For all stakeholders such as event owners to be able to see status of their tickets and the flow/history of them if needed in case of frauds and thefts
-Fit Criterion: At all times each of the tickets will be distinguishable between other tickets and it's history should be stored.
+Rationale: For all stakeholders such as event owners to be able to see status of their tickets in a sense of the amount of tickets reserved for event in a user non-indentifiable just as statistics. And the flow/history to be recorded in logs in case of frauds and thefts for investigations.
+Fit Criterion: At all times each of the tickets will be distinguishable between other tickets and it's history should be stored and viewable only by system users for anti-fraud purposes.
 Originator: Edna Everage
 Comments: [Matjaz Trcek] Req NFR-009 relates to functional requirement REQ-ID: 021.
 Comments: [Jiri Sedlacek] It looks more like solution than requirement and it is quite ambiguous.
 Comments: [Remigiusz Duszynski] I don't think that the stakeholders are allowed to see all the data. At least in some countries it could trespass laws of protecting personal data.
+Comments: [Matjaz Trcek] Updated the rationale and criterion, since I haven't worded it properly so it is more clear the history is meant to be there only for security purposes not to be viewed by end users. Good point Remigiusz
