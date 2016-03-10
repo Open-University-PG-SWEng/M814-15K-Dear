@@ -1,0 +1,9 @@
+REQ-ID: NFR-002
+Description: The ticket return confirmation page should be easy to read on mobile devices.
+Type: Usability
+Rationale: Use of mobile devices to access websites is growing and is projected to become the most common way of accessing the ticket website soon.
+Fit Criterion: After viewing the confirmation page, 95% of users should be able to accurately report the information it gave them when they viewed it on each of the top five best-selling mobile devices.
+Originator: Leslie Patterson
+Comments: [PF] This NFR is related to FR 028 and is influenced by the discussion of plans for MoreTheTicket.
+Comments:[LK] Adding review response-Rational is very clear. Recommendation: In my opinion, 95% of users would not be able to view the information on "each of the top five best-selling mobiles".  I am sure that there would be a high percentage of people who do not own one of the top 5 selling phones.  Nowadays, phones tend work/run longer and it is common that when a mobile phone contract expires and the user upgrades their phone, the old phone is passed onto family/ friends because it still works well.  I think this part of the fit criterion should be altered or deleted.
+[Philip Harle] Agreeing with Lauren, the rationale is clear. The use of quantitive measures for the fit criterion is good. I would suggest simplifying the text in the fit criterion “..95% of users shall successfully view their confirmation details on..” and replace top five devices with “mobile OS versions with a market share greater than 5%”, possibly making reference to a source of data.

@@ -1,0 +1,112 @@
+﻿REQ-ID:
+Description:
+Type:
+Rationale:
+Originator:
+Comments: [M814-ModuleChair] Copy this template below to add new requirements.
+
+
+REQ-ID: EXAMPLE: 001
+Description: EXAMPLE DESCRIPTION: some descriptive text here
+Type: FUNCTIONAL / NON FUNCTIONAL
+Rationale: EXAMPLE RATIONALE: why do we need this capability?
+Originator: EXAMPLE ORIGINATOR: Edna Everage
+Comments: [Jay Dear EXAMPLE]
+
+
+REQ-ID: 001
+Description: The product shall identify the owner of a given purchased ticket
+Type: Functional
+Rationale: To allow the system to ensure that the ticket is valid, the customer returning the ticket actually owns it, and to locate contact/bank details for a refund
+Originator: Leslie Patterson
+Comments: [Philip Harle]
+
+REQ-ID: 002
+Description: The product shall update the ticket record to remove its allocation
+Type: Functional
+Rationale: To allow the system to make the returned ticket available for purchase again
+Originator: Edna Everage
+Comments: [Philip Harle]
+
+REQ-ID: 006
+Description: The product shall trigger reallocation of tickets that have had their allocation removed every 24hrs.
+Type: Functional
+Rationale: Functionality that provides the timed interval that trigger reallocation.
+Originator: Edna Everage
+Comments: [Shane Edwards]
+
+REQ-ID: 010
+Description: The product shall identify tickets purchased by the customer
+Type: Functional
+Rationale: To allow the customer to select the tickets to be returned, while preventing the customer from interacting with tickets that do not belong to them
+Originator: Leslie Patterson
+Comments: [Andrew Kane]
+
+REQ-ID: 012
+Description: The product shall list all returned tickets for rellocation
+Type: Functional
+Rationale: to allow returned tickets to be reallocated every time the rellocation program is triggered
+Originator: Edna Everage
+Comments: [Gabriel Ajabahian]
+
+REQ-ID: 015
+Description: The system should differentiate returned tickets from available tickets.
+Type: Functional
+Rationale: The organisers wish to closely control the re-allocation of tickets; they do not want returned tickets to be immediately available to customers.
+Originator:Edna Everage
+Comments: [Pete Frost]
+
+REQ-ID: 016
+Description: The product shall allow one or more tickets to be returned
+Type: Functional
+Rationale: To enable customer to return ticket(s) they no longer need
+Originator: Leslie Patterson
+Comments: [Lauren key]
+
+REQ-ID: 019
+Description: The product must refund the customer�s money
+Type: Functional
+Rationale: To enable the purchase price of one more or tickets to be refunded when they are returned
+Originator: Leslie Patterson
+Comments: [David Howes]
+
+REQ-ID: 021
+Description: Returned tickets go into reallocation pool and are different to normal tickets
+Rationale: To have it separated in case like event being full, and redistribution of return tickets, also to notify organisers of change of real tickets reserved and returned
+Originator: Edna Everage
+Comments: [Matjaz Trcek]
+
+REQ-ID: 022
+Description: The product shall show the list of reasons why were tickets returned.
+Type: Functional
+Rationale: To understand the reasons for returns.
+Originator: Edna Everage
+Comments: [Jiri Sedlacek]
+
+REQ-ID: 024
+Description: The product shall record the customer-type ticket pool that the returned ticket was originally sold from.
+Type: Functional
+Rationale: To ensure fair reallocation of the returned ticket.
+Originator: Leslie Patterson
+Comments: [Ben Kreft]
+
+REQ-ID: 025
+Description: The product shall facilitate a user's reasons for returning their ticket.
+Type: Functional
+Rationale: To contribute to pattern detection by ensuring a user has the flexibility to express their reasons.
+Originator: Leslie Patterson
+Comments: [Ben Kreft]
+
+REQ-ID: 031
+Description: The product shall allow defining/adjusting of policy of reallocating tickets.
+Type: Functional
+Rationale: It is unknown at the moment how to manage such cases like "what should we do when two tickets are returned but the head of the queue wants three or more?"
+Originator: Edna Everage
+Comments: [Remigiusz Duszynski]
+
+REQ-ID: 098
+Description: The product shall verify that Ticket Returns are still open before processing return
+Type: Functional
+Rationale: To ensure tickets can only be returned if further reallocation is due to take place for that event (i.e. unused tickets for events already occurred cannot be refunded)
+Originator: Leslie Patterson
+Comments: [Baptiste Guittet-Carriere]
