@@ -5,3 +5,5 @@ Rationale: To prevent legal action being taken against the company for releasing
 Fit Criterion: The legal sector shall safeguard the product against data breaches, so that it conforms to The Australian National Privacy Act 1988.
 Originator: Leslie Patterson
 Comments: [Lauren Key] NFR-006 relates to Functional Requirement REQ-ID 017 and 019. 
+Comments: [Andrew Kane] The description and rationale are good, but i think the wording of the fit criterion could be better, such as "The legel Department shall confirm the product conforms to...", as the current wording is ambiguous, how will the legel department safegaurd the product against breaches?  
+Comments: [Jiri Sedlacek] This is more legal requirement than security requirement. Law does not have security standards.

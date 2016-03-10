@@ -104,6 +104,13 @@ Rationale: To contribute to pattern detection by ensuring a user has the flexibi
 Originator: Leslie Patterson
 Comments: [Ben Kreft]
 
+REQ-ID: 031
+Description: The product shall allow defining/adjusting of policy of reallocating tickets.
+Type: Functional
+Rationale: It is unknown at the moment how to manage such cases like "what should we do when two tickets are returned but the head of the queue wants three or more?"
+Originator: Edna Everage
+Comments: [Remigiusz Duszynski]
+
 REQ-ID: 098
 Description: The product shall verify that Ticket Returns are still open before processing return
 Type: Functional

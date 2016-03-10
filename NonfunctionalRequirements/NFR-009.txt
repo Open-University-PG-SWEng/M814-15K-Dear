@@ -1,8 +1,9 @@
 REQ-ID: NFR-009
-Description: System will put normal tickets. returned tickets and returned-bought tickets  into separate tables (or separated by a different parameter indentifier),
-to ensure the same tickets are always somewhere and process works correctly
+Description: System needs to separate different types of tickets and detailed history of their flow
 Type: Security
-Rationale: To prevent edge cases and to prevent duplicately assigned tickets and at the same time for all stakeholders such as event owners to be able to see status of all tickets
-Fit Criterion: At all times each of the tickets will be only in one table (or containing only one parameter)  and there will be no duplicates at the same time the volume of all ticket states must be equal to total amount of tickets
+Rationale: For all stakeholders such as event owners to be able to see status of their tickets and the flow/history of them if needed in case of frauds and thefts
+Fit Criterion: At all times each of the tickets will be distinguishable between other tickets and it's history should be stored.
 Originator: Edna Everage
-Comments: 
+Comments: [Matjaz Trcek] Req NFR-009 relates to functional requirement REQ-ID: 021.
+Comments: [Jiri Sedlacek] It looks more like solution than requirement and it is quite ambiguous.
+Comments: [Remigiusz Duszynski] I don't thik that the stakeholders are allowed to see all the data. At least in some countries it could trespass laws of protecting personal data.
