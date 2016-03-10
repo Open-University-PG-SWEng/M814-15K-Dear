@@ -6,3 +6,4 @@ Rationale: To prevent edge cases and to prevent duplicately assigned tickets and
 Fit Criterion: At all times each of the tickets will be only in one table (or containing only one parameter)  and there will be no duplicates at the same time the volume of all ticket states must be equal to total amount of tickets
 Originator: Edna Everage
 Comments: 
+[Jiri Sedlacek] It looks more like solution than requirement and it is quite ambiguous.
