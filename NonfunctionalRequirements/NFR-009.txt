@@ -6,4 +6,4 @@ Fit Criterion: At all times each of the tickets will be distinguishable between 
 Originator: Edna Everage
 Comments: [Matjaz Trcek] Req NFR-009 relates to functional requirement REQ-ID: 021.
 Comments: [Jiri Sedlacek] It looks more like solution than requirement and it is quite ambiguous.
-Comments: [Remigiusz Duszynski] I don't thik that the stakeholders are allowed to see all the data. At least in some countries it could trespass laws of protecting personal data.
+Comments: [Remigiusz Duszynski] I don't think that the stakeholders are allowed to see all the data. At least in some countries it could trespass laws of protecting personal data.
