@@ -6,3 +6,11 @@ Fit Criterion: 100% of changes in the policy shall be detailed logged (who and w
 Originator: Edna Everage
 Comments: [Remigiusz Duszynski] NFR-012 relates to Functional Requirement REQ-ID 031
 [Matjaz Trcek] Good thinking, useful reviewing logs in case of a security breach. Could prevention of unauthorized personel or review process be more efficient? The problem I see with the NFR is that it could be possibly detected at a very late stage if not watched on
+Comments: [Remigiusz Duszynski] Thanks Matjaz for your comment, I think I can handle them properly when I write an additional requirement (added below)
+
+REQ-ID: 012-A
+Description: The product shall proactively monitor changes in the reallocation policy.
+Rationale: The problem with the NFR-012 is that it could be possibly detected at a very late stage if not watched on.
+Fit Criterion: The product shall alert every change in the reallocation policy when it was not previously announced.
+Originator: Matjaz Trcek
+
