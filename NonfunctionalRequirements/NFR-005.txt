@@ -9,3 +9,4 @@ Comments: [David Howes] This seems more like a functional requirement than a non
 Comments: [Andrew Kane] I agree with Daivd, and would add that it appears to be a solution, there are different ways to differentiate between available, allocated and returned tickets
 
 
+
