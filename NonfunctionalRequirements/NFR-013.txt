@@ -1,0 +1,6 @@
+REQ-ID: NFR-013
+Description: Implementation of two-factor authentication method to login.
+Type: Security
+Rationale: It is important to prevent non human activity for security and stability performance of the website and database. 
+Fit Criterion: A text message(SMS) shall be send and received by the customer within 3 seconds.
+Originator: Edna Everage
