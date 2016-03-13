@@ -13,4 +13,5 @@ Description: The product shall proactively monitor changes in the reallocation p
 Rationale: The problem with the NFR-012 is that it could be possibly detected at a very late stage if not watched on.
 Fit Criterion: The product shall alert every change in the reallocation policy when it was not previously announced.
 Originator: Matjaz Trcek
+Comments: [Ben Kreft] 012-A's fit criterion appears to be a rewording of the description. I think you would have to acknowledge all changes to the reallocation policy as I'm unsure how a system could identify 'previously announced' changes.
 
