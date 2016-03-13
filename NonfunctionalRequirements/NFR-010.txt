@@ -1,9 +1,10 @@
-REQ-ID:NFR-010
-Description:It should be easy and fast to specify a reason for return
-Type:Usability
-Rationale:Users are likely to become annoyed and less likely to use the system in future if they feel they are encountering unnecessary barriers
-Fit Criterion:At least 90% of user who do not choose to enter a text based description of their reasons for return should have completed the reason selection in under 30 seconds.
-Originator:Leslie Patterson
-Comments: [David_Howes] NFR-010 relates to Functional Requirement REQ-ID 018. 
-
-
+REQ-ID: NFR-010
+Description: There should be an easy and fast way to specify a reason for returning tickets.
+Type: Usability
+Rationale: Some users are likely to become annoyed and less likely to use the system in future if they feel they are encountering unnecessary barriers
+Fit Criterion: At least 90% of users who choose to do so, should be able to specify a reason in under 30 seconds.
+Originator: Leslie Patterson
+Comments: [David_Howes] NFR-010 relates to Functional Requirement REQ-ID 018.
+Comments: [Matjaz Trcek] I do not see it as the most proper Usability case. Since it is about make it efficient for users, maybe a better way would be to have return field reason with a default value in case they don't choose another one.
+Comments: [Remigiusz Duszynski] Is it reasonable to do it as easy and fast? Reasons for return are very important data. I think, to let users to take a whole minute to pecise the reason for returning is not too much expected.
+Comments: [Shane Edwards] This feels like a duplicate of NFR 001 with slightly different fit criterion. Also, from the transcript in TMA 02, it doesn't say anywhere that the reason for returning a ticket should be explicitly supplied by a user. It became apparent when writing NFR 11 that "understand the reasons for returns" could potentially be derived from other meta data associated with buyer location, time of ticket return etc. (that could potentiall be plotted on graphs) rather than explicit text written by users--people could easily lie about their returns. I would also attach this kind of usability requirement to govern a higher level use case rather than a single requirement.

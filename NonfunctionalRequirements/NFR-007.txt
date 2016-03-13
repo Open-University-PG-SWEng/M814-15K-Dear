@@ -6,3 +6,4 @@ Fit Criterion: Using simulation data, stakeholders will be able to identify 8/10
 Originator: Leslie Patterson
 Comments:
 [Shane Edwards] Usability and humanity related property of requirement 022
+[Jiri Sedkacek] Type is not correctly set, 20 simulations will not provide statistically significant data. Rationaly is not explaining the reasons for this requirement.

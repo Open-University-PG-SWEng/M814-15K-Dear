@@ -6,5 +6,8 @@ Fit Criterion: At any time, the ticket allocation inventory and the ticket reall
 Originator: Edna Everage
 Comments: [JRA] Req NFR-005 relates to functional requirement REQ-ID: 099.
 Comments: [David Howes] This seems more like a functional requirement than a non-functional requirement.
+Comments: [Andrew Kane] I agree with Daivd, and would add that it appears to be a solution, there are different ways to differentiate between available, allocated and returned tickets
+Comments: [George Moschovitis] i couldn't agree more with David’s and Andrew’s comments as the requirement looks better to me as a functional 
+
 
 
