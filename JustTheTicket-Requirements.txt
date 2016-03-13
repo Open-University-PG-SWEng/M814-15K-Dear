@@ -70,6 +70,12 @@ Rationale: To enable the purchase price of one more or tickets to be refunded wh
 Originator: Leslie Patterson
 Comments: [David Howes]
 
+REQ-ID: 021
+Description: Returned tickets go into reallocation pool and are different to normal tickets
+Rationale: To have it separated in case like event being full, and redistribution of return tickets, also to notify organisers of change of real tickets reserved and returned
+Originator: Edna Everage
+Comments: [Matjaz Trcek]
+
 REQ-ID: 022
 Description: The product shall show the list of reasons why were tickets returned.
 Type: Functional
@@ -97,6 +103,3 @@ Type: Functional
 Rationale: To ensure tickets can only be returned if further reallocation is due to take place for that event (i.e. unused tickets for events already occurred cannot be refunded)
 Originator: Leslie Patterson
 Comments: [Baptiste Guittet-Carriere]
-
-
-
