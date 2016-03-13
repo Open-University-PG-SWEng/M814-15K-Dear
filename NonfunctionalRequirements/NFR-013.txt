@@ -5,3 +5,4 @@ Rationale: It is important to prevent non human activity for security and stabil
 Fit Criterion: A text message(SMS) shall be send and received by the customer within 3 seconds.
 Originator: Edna Everage
 Comments: [Ben Kreft] Agree with the rationale but the fit criterion implements a solution. I would suggest something along the lines of 'customer required to confirm/verify...'
+Comments: [Graham Gibbon] Not in 100% agreement about the rationale - why the non-human activity part? Two-factor authentication can help with human authentication as well? Agree with Ben Kreft that the fit criterion is a solution currently. 
