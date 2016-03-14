@@ -8,3 +8,4 @@ Comments: [Matjaz Trcek] Req NFR-009 relates to functional requirement REQ-ID: 0
 Comments: [Jiri Sedlacek] It looks more like solution than requirement and it is quite ambiguous.
 Comments: [Remigiusz Duszynski] I don't think that the stakeholders are allowed to see all the data. At least in some countries it could trespass laws of protecting personal data.
 Comments: [Matjaz Trcek] Updated the rationale and criterion, since I haven't worded it properly so it is more clear the history is meant to be there only for security purposes not to be viewed by end users. Good point Remigiusz
+Comments: [Rogerio Vazquez] Fit Criterion is not very clear, should the tickets and the history be visible only be system users?
