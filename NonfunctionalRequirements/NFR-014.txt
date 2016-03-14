@@ -1,0 +1,7 @@
+REQ-ID: 001
+Description: The system should be scalable to accomodate a growing number of events
+Type: Non-Functional
+Rationale: The number of simultaneous events shall grow with time and the system should accomodate the growing number
+Fit Criterion: Being able to add further processing and storage
+Originator: Leslie Patterson
+Comments: [Rogelio Vazquez]
