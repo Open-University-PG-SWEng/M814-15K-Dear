@@ -6,3 +6,4 @@ Fit Criterion: A text message(SMS) shall be send and received by the customer wi
 Originator: Edna Everage
 Comments: [Ben Kreft] Agree with the rationale but the fit criterion implements a solution. I would suggest something along the lines of 'customer required to confirm/verify...'
 Comments: [Graham Gibbon] Not in 100% agreement about the rationale - why the non-human activity part? Two-factor authentication can help with human authentication as well? Agree with Ben Kreft that the fit criterion is a solution currently. 
+Comments: [Pete Frost] I'm not sure this is actually a non-functional requirement. It seems like a functional requirement to me as it specifies a behaviour.

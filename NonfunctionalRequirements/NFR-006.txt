@@ -8,3 +8,4 @@ Comments: [Lauren Key] NFR-006 relates to Functional Requirement REQ-ID 017 and 
 Comments: [Andrew Kane] The description and rationale are good, but i think the wording of the fit criterion could be better, such as "The legel Department shall confirm the product conforms to...", as the current wording is ambiguous, how will the legel department safegaurd the product against breaches?  
 Comments: [Jiri Sedlacek] This is more legal requirement than security requirement. Law does not have security standards.
 Comments: [George Moschovitis] I agree with Jiri, the requirement looks more like legislation related than a security one.
+Comments: [Pete Frost] I think the description might actually be a bit too narrow as the case study for MoreTheTicket includes discussion of using a cloud service provider, which means the data could potentially be held outside Australia. Perhaps it would be best to say something like "applicable data protection and privacy laws"?
