@@ -7,3 +7,4 @@ Originator: Leslie Patterson
 Comments:
 [Shane Edwards] Usability and humanity related property of requirement 022
 [Jiri Sedkacek] Type is not correctly set, 20 simulations will not provide statistically significant data. Rationaly is not explaining the reasons for this requirement.
+[Rogerio Vazquez] Rationale is not well explained, it is not clear how the simulations would measure the effectiveness of the solution.
