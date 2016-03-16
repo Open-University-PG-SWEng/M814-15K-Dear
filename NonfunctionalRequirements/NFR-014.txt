@@ -6,3 +6,4 @@ Fit Criterion: Being able to add further processing and storage
 Originator: Leslie Patterson
 Comments: [Rogelio Vazquez]
 Comments: [Jose Ruiz] The description and rationale are precise and understandable. But the type of NFR should be stated and there is a lack of measurement in the fit criterion, it is not testable. Besides, the Req. Id should be updated to 14.
+Comments: [George Moschovitis] The description is good the same as rationale. Regarding the Fit Criterion i would suggest trying to be more descriptive
