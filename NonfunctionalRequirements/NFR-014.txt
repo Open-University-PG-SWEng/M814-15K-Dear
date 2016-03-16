@@ -5,3 +5,4 @@ Rationale: The number of simultaneous events shall grow with time and the system
 Fit Criterion: Being able to add further processing and storage
 Originator: Leslie Patterson
 Comments: [Rogelio Vazquez]
+Comments: [Jose Ruiz] The description and rationale are precise and understandable. But the type of NFR should be stated and there is a lack of measurement in the fit criterion, it is not testable. Besides, the Req. Id should be updated to 14.

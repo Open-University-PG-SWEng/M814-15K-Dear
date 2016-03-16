@@ -7,3 +7,4 @@ Originator: Edna Everage
 Comments: [Remigiusz Duszynski] Fit criterion should be more abstract, in the current form it unnecessary constrains other solutions like checksum.
 Comments: [Shane Edwards] Rationale is good, the description feels like specific implementation detail. The fit criterion seems to fixate on the solution and agree, should be more abstract.
 Comments: [Pete Frost] To be honest I am having difficulty figuring out what the description means. What does "note generate rows" mean?
+Comments: [Jose Ruiz] Agree with Pete Frost, the description does not seem to be clear. The fit criterion also goes into implementation details.

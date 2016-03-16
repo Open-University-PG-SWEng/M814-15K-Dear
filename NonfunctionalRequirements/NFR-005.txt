@@ -1,13 +1,14 @@
-REQ-ID: NFR-005
-Description: The system shall ensure that tickets in the reallocation inventory are allocated to customers
+﻿REQ-ID: NFR-005
+Description: The system shall ensure that allocation and reallocation ticket inventories are not updated in case of abnormal termination of ticket return process.
 Type: Security - Integrity
 Rationale: To prevent the reallocation program to allocate one single ticket to two different customers.
 Fit Criterion: At any time, the ticket allocation inventory and the ticket reallocation inventory will have zero tickets in common.
 Originator: Edna Everage
-Comments: [JRA] Req NFR-005 relates to functional requirement REQ-ID: 099.
+Comments: [Jose Ruiz] Req NFR-005 relates to functional requirement REQ-ID: 099.
 Comments: [David Howes] This seems more like a functional requirement than a non-functional requirement.
 Comments: [Andrew Kane] I agree with Daivd, and would add that it appears to be a solution, there are different ways to differentiate between available, allocated and returned tickets
 Comments: [George Moschovitis] i couldn't agree more with David’s and Andrew’s comments as the requirement looks better to me as a functional 
+Comments: [Jose Ruiz] I have to agree with the comments. The description of the requirement has been modified to clarify its the integrity intention of the requirement.
 
 
 
