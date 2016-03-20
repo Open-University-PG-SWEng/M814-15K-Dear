@@ -1,5 +1,5 @@
 REQ-ID: NFR-011
-Description: Tickets' unique identification numbers should note generate rows.
+Description: Tickets' unique identification numbers should note generate continuous series.
 Type: Security
 Rationale: It is important to prevent accidental or intentional misidentification of ticket.
 Fit Criterion: Any two tickets’ unique identification numbers should differ at least by two characters.
