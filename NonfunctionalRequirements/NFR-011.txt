@@ -2,7 +2,7 @@ REQ-ID: NFR-011
 Description: Tickets' unique identification numbers should note generate continuous series.
 Type: Security
 Rationale: It is important to prevent accidental or intentional misidentification of ticket.
-Fit Criterion: Any two tickets’ unique identification numbers should differ at least by two characters.
+Fit Criterion: Random change of ticket's unique identification number by 1-2 characters should not point to another valid ticket.
 Originator: Edna Everage
 Comments: [Remigiusz Duszynski] Fit criterion should be more abstract, in the current form it unnecessary constrains other solutions like checksum.
 Comments: [Shane Edwards] Rationale is good, the description feels like specific implementation detail. The fit criterion seems to fixate on the solution and agree, should be more abstract.
