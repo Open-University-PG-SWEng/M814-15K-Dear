@@ -1,0 +1,9 @@
+REQ-ID: NFR-015
+
+Description: The product shall make the allowable return of unwanted tickets by customers as easy as possible
+
+Type: 11 Usability and Humanity
+
+Rationale: To enable customers to return tickets open for reallocation as quickly and seamlessly as possible, to avoid unwanted tickets going unused and thus avoid leaving gaps in the crowd
+
+Fit Criterion: The check by the application back end to ensure return for those tickets is still open shall be carried out in no more than three seconds for 95% of return transactions
